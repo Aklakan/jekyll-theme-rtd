@@ -1,0 +1,2 @@
+- You can override assets/css/theme\_custom.css
+- search.html and search\_data.json may need to be copied into the `docs` folder if one is used
